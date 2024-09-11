@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elomd\\source\\repos\\FinalProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5ECA85-CE54-474E-8137-63266846DAA2}|FinalProject1\\FinalProject1.csproj|c:\\users\\elomd\\source\\repos\\finalproject1\\finalproject1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5ECA85-CE54-474E-8137-63266846DAA2}|FinalProject1\\FinalProject1.csproj|solutionrelative:finalproject1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5ECA85-CE54-474E-8137-63266846DAA2}|FinalProject1\\FinalProject1.csproj|c:\\users\\elomd\\source\\repos\\finalproject1\\finalproject1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF5ECA85-CE54-474E-8137-63266846DAA2}|FinalProject1\\FinalProject1.csproj|solutionrelative:finalproject1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5ECA85-CE54-474E-8137-63266846DAA2}|FinalProject1\\FinalProject1.csproj|c:\\users\\elomd\\source\\repos\\finalproject1\\finalproject1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5ECA85-CE54-474E-8137-63266846DAA2}|FinalProject1\\FinalProject1.csproj|solutionrelative:finalproject1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5ECA85-CE54-474E-8137-63266846DAA2}|FinalProject1\\FinalProject1.csproj|c:\\users\\elomd\\source\\repos\\finalproject1\\finalproject1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5ECA85-CE54-474E-8137-63266846DAA2}|FinalProject1\\FinalProject1.csproj|solutionrelative:finalproject1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\elomd\\source\\repos\\FinalProject1\\FinalProject1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FinalProject1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\elomd\\source\\repos\\FinalProject1\\FinalProject1\\Models\\Category.cs",
+              "RelativeToolTip": "FinalProject1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:05:10.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\elomd\\source\\repos\\FinalProject1\\FinalProject1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FinalProject1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\elomd\\source\\repos\\FinalProject1\\FinalProject1\\Models\\Product.cs",
+              "RelativeToolTip": "FinalProject1\\Models\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:52:06.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\elomd\\source\\repos\\FinalProject1\\FinalProject1\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalProject1\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\elomd\\source\\repos\\FinalProject1\\FinalProject1\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "FinalProject1\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T14:52:22.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\elomd\\source\\repos\\FinalProject1\\FinalProject1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FinalProject1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\elomd\\source\\repos\\FinalProject1\\FinalProject1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FinalProject1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:16:45.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

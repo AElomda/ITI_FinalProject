@@ -1,0 +1,13 @@
+﻿@model User
+
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">User FirstName: @Model.FirstName</h5>
+        <h5 class="card-title">User LastName: @Model.LastName</h5>
+        <h5 class="card-title">User Email: @Model.Email</h5>
+        <h5 class="card-title">User Password: @Model.Password</h5>
+
+        <h6 class="card-subtitle mb-2 text-muted">Department Id: @Model.Id</h6>
+        <a asp-controller="User" asp-action="Index" class="btn btn-primary mt-4">Back</a>
+    </div>
+</div>
